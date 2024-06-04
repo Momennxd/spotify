@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify_PresentationLayer", "Spotify_PresentationLayer.csproj", "{CCC34022-2791-4C12-9BF9-A64F5C9346EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify_BusinessLayer", "..\Spotify_BusinessLayer\Spotify_BusinessLayer.csproj", "{B5233D98-907D-4B47-A93C-0ACA25DF1C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spotify_DataAccessLayer", "..\Spotify_DataAccessLayer\Spotify_DataAccessLayer.csproj", "{775E4FAA-5640-4EC8-9D20-B94DBCE6F40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC34022-2791-4C12-9BF9-A64F5C9346EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC34022-2791-4C12-9BF9-A64F5C9346EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC34022-2791-4C12-9BF9-A64F5C9346EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC34022-2791-4C12-9BF9-A64F5C9346EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5233D98-907D-4B47-A93C-0ACA25DF1C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5233D98-907D-4B47-A93C-0ACA25DF1C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5233D98-907D-4B47-A93C-0ACA25DF1C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5233D98-907D-4B47-A93C-0ACA25DF1C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775E4FAA-5640-4EC8-9D20-B94DBCE6F40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775E4FAA-5640-4EC8-9D20-B94DBCE6F40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775E4FAA-5640-4EC8-9D20-B94DBCE6F40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775E4FAA-5640-4EC8-9D20-B94DBCE6F40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C986715-4618-4141-A1A2-F9B9ECF099C6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_PresentationLayer.exe.config
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_PresentationLayer.exe
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_PresentationLayer.pdb
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_BusinessLayer.dll
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_BusinessLayer.pdb
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.csproj.AssemblyReference.cache
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.Properties.Resources.resources
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.csproj.GenerateResource.cache
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.csproj.CopyComplete
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.exe
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.pdb
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_DataAccessLayer.dll
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_DataAccessLayer.pdb
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.frmMainScreen.resources
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\MaterialSkin.dll
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\taglib-sharp.dll
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.Controls.ctrlLikedSongsPlaylist.resources
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.Controls.ctrlSong.resources
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\My Projects With C#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.Playlists.frmLikesSongs.resources
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_PresentationLayer.exe.config
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_PresentationLayer.exe
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_PresentationLayer.pdb
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\MaterialSkin.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_BusinessLayer.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\taglib-sharp.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_BusinessLayer.pdb
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\Spotify_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.Controls.ctrlLikedSongsPlaylist.resources
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.Controls.ctrlSong.resources
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.frmMainScreen.resources
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.Playlists.frmLikesSongs.resources
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.Properties.Resources.resources
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.csproj.GenerateResource.cache
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.csproj.CopyComplete
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.exe
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.pdb
