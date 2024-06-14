@@ -8,3 +8,15 @@ D:\Projects\My Projects With C#\Spotify\Spotify_DataAccessLayer\bin\Debug\Materi
 D:\Projects\My Projects With C#\Spotify\Spotify_DataAccessLayer\obj\Debug\Spotify_DataAccessLayer.csproj.CopyComplete
 D:\Projects\My Projects With C#\Spotify\Spotify_DataAccessLayer\bin\Debug\taglib-sharp.dll
 D:\Projects\My Projects With C#\Spotify\Spotify_DataAccessLayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\bin\Debug\Spotify_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\bin\Debug\Spotify_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\bin\Debug\MaterialSkin.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\bin\Debug\taglib-sharp.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\obj\Debug\Spotify_DataAccessLayer.csproj.AssemblyReference.cache
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\obj\Debug\Spotify_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\obj\Debug\Spotify_DataAccessLayer.csproj.CopyComplete
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\obj\Debug\Spotify_DataAccessLayer.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\obj\Debug\Spotify_DataAccessLayer.pdb
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_DataAccessLayer\bin\Debug\System.Data.SqlClient.xml

@@ -42,3 +42,5 @@ D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_P
 D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.csproj.CopyComplete
 D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.exe
 D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\obj\Debug\Spotify_PresentationLayer.pdb
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\System.Data.SqlClient.dll
+D:\Projects\My_Projects_c#\Spotify\Spotify_PresentationLayer\bin\Debug\System.Data.SqlClient.xml
